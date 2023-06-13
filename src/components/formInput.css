@@ -1,0 +1,35 @@
+.formInput {
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+}
+.inbox{
+    padding: 15px;
+    margin: 10px 0px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.pp{
+    margin: 0px;
+    text-align: center;
+}
+form {
+	background-color: white;
+	padding: 0px 60px;
+	border-radius: 10px;
+	
+}
+.bbutton {
+	width: 100%;
+	height: 50px;
+	padding: 10px;
+	border: none;
+	background-color: rgb(3, 34, 112);
+	color: white;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 18px;
+	cursor: pointer;
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
